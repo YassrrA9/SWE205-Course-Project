@@ -1,0 +1,2 @@
+[Type: CADILLAC, Name: XT6, Model: 2020, Size: Van, Color: YELLOW]
+[Type: Toyota, Name: ss, Model: 2019, Size: small, Color: yellow]
